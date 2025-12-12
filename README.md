@@ -18,7 +18,6 @@ I am an Independent AI Researcher & Engineer building production-grade NLP pipel
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats
 ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hari-599&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hari-599&layout=compact&theme=radical)
