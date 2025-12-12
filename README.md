@@ -19,5 +19,5 @@ I am an Independent AI Researcher & Engineer building production-grade NLP pipel
 
 ---
 ### 📊 GitHub Stats
-![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hari-599&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hari-599&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=hari-599&show_icons=true&theme=radical" alt="Hari's GitHub stats" referrerpolicy="no-referrer" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari-599&layout=compact&theme=radical" alt="Top Langs" referrerpolicy="no-referrer" />
